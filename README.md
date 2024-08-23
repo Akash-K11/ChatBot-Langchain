@@ -1,14 +1,4 @@
-### Repository Description
-
-**Langchain Streamlit Chatbot Demo with OpenAI and LLaMA3 APIs**
-
-This repository demonstrates how to build an interactive web application using Streamlit and Langchain. The app allows users to choose between the OpenAI GPT-4o API and the LLaMA3.1 API for querying language models. The project showcases the integration of different language models in a seamless user interface.
-
----
-
-### README
-
-# Langchain Streamlit Demo with OpenAI and LLaMA2 APIs
+# Langchain Streamlit Demo with OpenAI and llama3 APIs
 
 This project is a simple Streamlit-based web application that allows users to interact with language models using Langchain. Users can choose between OpenAI's GPT-4o and the LLaMA3.1 model powered by the Ollama API. 
 
